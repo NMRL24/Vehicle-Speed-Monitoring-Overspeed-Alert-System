@@ -1,2 +1,2 @@
 # Vehicle-Speed-Monitoring-Overspeed-Alert-System
-This project uses IR sensors to track speed and triggers real-time alerts via Buzzer and the Blynk IoT App whenever speed crosses a safe limit.
+Developed a smart Vehicle Speed Monitoring & Overspeed Alert System using ESP32 and IR sensors, designed to detect overspeeding in real-time and provide instant alerts through a buzzer and the Blynk IoT mobile app. This project, utilizing Embedded C and Arduino IDE, focused on accurate speed calculation and real-time alerting, making it ideal for applications in school zones and smart traffic systems, with future scope for GPS integration and cloud data logging.
