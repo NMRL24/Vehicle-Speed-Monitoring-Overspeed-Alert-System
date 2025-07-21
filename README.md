@@ -110,7 +110,7 @@ A: Ensure you’re using the correct Auth Token, Template ID, and that the ESP32
 
 <h2>👨‍💻 Author</h2>
 <p><strong>Naragam Manikanta Raghava</strong><br>
-<a href="https://github.com/NMRL24/pollens-profiling-automated-classification-of-pollen-grains">GitHub Project Link</a></p>
+<a href="https://github.com/NMRL24/Vehicle-Speed-Monitoring-Overspeed-Alert-System">GitHub Project Link</a></p>
 
 <h2>📜 License</h2>
 <p>This project is open-source and free to use for learning and non-commercial purposes. Attribution appreciated.</p>
