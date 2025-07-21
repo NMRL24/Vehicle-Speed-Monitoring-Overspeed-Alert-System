@@ -1,4 +1,3 @@
-# Vehicle-Speed-Monitoring-Overspeed-Alert-System
 <h1>🚗 Vehicle Speed Monitoring and Overspeed Alert System with ESP32 + Blynk</h1>
 
 <p>This project uses an <strong>IR sensor</strong>, <strong>ESP32</strong>, and the <strong>Blynk IoT platform</strong> to detect vehicle speed and trigger an <strong>overspeed alert</strong> if a threshold is exceeded. Perfect for smart traffic systems and embedded systems learners!</p>
